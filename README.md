@@ -1,5 +1,5 @@
 # OIBSIP_domain_taskno.1
-# 🧹 Reatil Sales Data Cleaning and Analysis Project
+# 🧹 Retail Sales Data Cleaning and Analysis Project
 
 This project demonstrates the process of **cleaning messy data** and performing basic **data analysis** using **Excel**.  
 Data cleaning is a crucial step before analysis, ensuring accuracy, consistency, and reliability.
@@ -62,5 +62,15 @@ Data cleaning is a crucial step before analysis, ensuring accuracy, consistency,
   <img width="300" height="400" alt="Picture2" src="https://github.com/user-attachments/assets/f8d6fc2b-cd08-4b03-bbe5-4a7585bff9bd" />
   <img width="300" height="400" alt="Picture3" src="https://github.com/user-attachments/assets/1447bc94-dddd-415d-9be5-df690f8f5629" />
 
+**(F) Recommenadations**
+ 
+  Highlight sneakers and jackets, since these generate the highest revenue-prioritize promotional campaigns and visibility for these products.
 
+  Leverage high-volume clothing sales like T-shirts and jeans by offering bundle deals, discounts, or special combo offers to increase basket size.
+
+  Position accessories toward female shoppers by designing campaigns and messaging tailored to women’s preferences.
+
+  Develop loyalty perks for the 25–35 age group, as this segment drives the largest share of purchases.
+
+  Align stock and marketing plans with seasonal or date-based sales spikes to ensure adequate inventory and maximize revenue during peak periods.
 
