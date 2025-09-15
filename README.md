@@ -64,13 +64,13 @@ Data cleaning is a crucial step before analysis, ensuring accuracy, consistency,
 
 **(F) Recommenadations**
  
-  Highlight sneakers and jackets, since these generate the highest revenue-prioritize promotional campaigns and visibility for these products.
+ 1. Highlight sneakers and jackets, since these generate the highest revenue-prioritize promotional campaigns and visibility for these products.
 
-  Leverage high-volume clothing sales like T-shirts and jeans by offering bundle deals, discounts, or special combo offers to increase basket size.
+ 2. Leverage high-volume clothing sales like T-shirts and jeans by offering bundle deals, discounts, or special combo offers to increase basket size.
 
-  Position accessories toward female shoppers by designing campaigns and messaging tailored to women’s preferences.
+ 3. Position accessories toward female shoppers by designing campaigns and messaging tailored to women’s preferences.
 
-  Develop loyalty perks for the 25–35 age group, as this segment drives the largest share of purchases.
+ 4. Develop loyalty perks for the 25–35 age group, as this segment drives the largest share of purchases.
 
-  Align stock and marketing plans with seasonal or date-based sales spikes to ensure adequate inventory and maximize revenue during peak periods.
+ 5. Align stock and marketing plans with seasonal or date-based sales spikes to ensure adequate inventory and maximize revenue during peak periods.
 
