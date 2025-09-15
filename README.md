@@ -57,3 +57,10 @@ Data cleaning is a crucial step before analysis, ensuring accuracy, consistency,
   Created Line Charts for sales over Time.
 
   Applied Conditional Formatting (Color Scales) to make a Heatmap of the sales table.
+
+  <img width="300" height="400" alt="Picture1" src="https://github.com/user-attachments/assets/82eda552-d503-4ddf-be1a-8c0b046afa8c" />
+  <img width="300" height="400" alt="Picture2" src="https://github.com/user-attachments/assets/f8d6fc2b-cd08-4b03-bbe5-4a7585bff9bd" />
+  <img width="300" height="400" alt="Picture3" src="https://github.com/user-attachments/assets/1447bc94-dddd-415d-9be5-df690f8f5629" />
+
+
+
